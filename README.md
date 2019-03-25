@@ -6,7 +6,7 @@ https://youtu.be/dtvG9XDtjv4
 Its main idea is to use the included "Physical Animation" to simulate poses or animations applied to the protagonist while 
 is falling in Ragdoll. This game is a physics-based one and it pretends to be one of many which uses this technique. 
 
-It is an open-source game which means that anyone could make changes to it for others to play. 
+It is a multiplatform open-source game which means that anyone could make changes to it for others to play. 
 
 
 
