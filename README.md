@@ -8,7 +8,7 @@ is falling in Ragdoll. This game is a physics-based one and it pretends to be on
 
 It is a multiplatform open-source game which means that anyone could make changes to it for others to play. 
 
-
+You can contribute to this project but please upload your progress here. 
 
 
 Thank you, 
@@ -22,3 +22,5 @@ my idea is to upgrade it by adding neural networks for the protagonist to balanc
 with DeepMotion's Avatar: 
 https://youtu.be/dZ3KUWcBCEk
 https://youtu.be/8AOHvH864bM
+
+
