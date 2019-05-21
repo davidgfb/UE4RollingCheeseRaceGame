@@ -16,6 +16,10 @@ Thank you,
 David
 
 
+![](https://github.com/davidgfb/UE4RollingCheeseRaceGame/blob/master/Captura%20de%20pantalla%202019-03-25%20a%20las%2021.01.55.png)
+
+![](https://github.com/davidgfb/UE4RollingCheeseRaceGame/blob/master/Captura%20de%20pantalla%202019-03-25%20a%20las%2021.02.02.png)
+
 
 Pd for geeks:
 my idea is to upgrade it by adding neural networks for the protagonist to balance by itself. Like in NaturalMotion's games
